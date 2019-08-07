@@ -1,0 +1,88 @@
+
+.nav {
+    height: 50px;
+    background-color: black;
+    margin: 0 auto;
+    color: white;
+  }
+
+  a {
+      color: white;
+  }
+
+
+  /* target the class of inline-block below */
+  .inline-block {
+    display: inline-block;
+    background-color: #333;
+    padding: 16px;
+  }
+
+  .block_element{
+      background-color: yellow;
+  }
+  /* profile and stats left side */
+  
+  .left {
+    height: 800px;
+    float: left;
+    background-color: blue;
+    width: 29%;
+    text-align: center;
+  
+  
+  }
+  
+  .petstats {
+    background-color: orange;
+    height: 100%;
+    padding-top: 20px;
+
+
+  }
+
+  .petprof {
+    padding-top: 20px;
+
+  }
+  
+  
+  /* right side */
+
+  .separator {
+      width: 750px; 
+      margin: 0 auto;
+  }
+
+  .rightimage {
+      
+      float: left; 
+      padding-right: 15px;
+  }
+
+  .right{
+    height: 800px;
+    float: left;
+    background-color: teal;
+    width: 70%; 
+    text-align: center; 
+  
+  
+  }
+  .card {
+    display: inline-block;
+    border-radius: 5px;
+    height: 200px;
+    width: 150px; 
+    margin: 35px;
+    margin-top: 20px; 
+
+  }
+
+  .petpics {
+    margin-top:100px;
+
+  }
+
+
+ 
